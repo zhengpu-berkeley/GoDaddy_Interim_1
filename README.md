@@ -1,6 +1,3 @@
-# Stat_222_Proj
+Interim Presentation:
 
-Cool GIFs in 
-
-EDA_plots/EDA_movie.gif
-EDA_plots/EDA_movie_delta.gif
+     GoDaddies_Deliverable_1.ipynb
